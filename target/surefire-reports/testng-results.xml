@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-11T10:12:44 IST" name="Default suite" finished-at="2023-08-11T10:13:14 IST" duration-ms="29756">
+    <groups>
+    </groups>
+    <test started-at="2023-08-11T10:12:44 IST" name="Default test" finished-at="2023-08-11T10:13:14 IST" duration-ms="29756">
+      <class name="mavendemo.NewDemo">
+        <test-method signature="testNewDemo()[pri:0, instance:mavendemo.NewDemo@31c88ec8]" started-at="2023-08-11T10:12:45 IST" name="testNewDemo" finished-at="2023-08-11T10:13:14 IST" duration-ms="29667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNewDemo -->
+      </class> <!-- mavendemo.NewDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
